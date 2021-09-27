@@ -1,0 +1,9 @@
+[twitter]
+
+accesstoken = 1438483286569799683-DXPQLiuSUnIUZOIWhPaeqr3af3cD6p
+
+accesstokensecret = xhncKkQfZ4b8DJlDzbKfaMoIk4Rh7BLYGK6ka7TbfLeQ3
+
+apikey = Qi1sH4WeUdYDn9I3Gcv54c8K0
+
+apisecretkey = pJzQdVx2O2aGgppTaobhjNBzJctnXsHX1nRjwnI57MoGXCN9EY
